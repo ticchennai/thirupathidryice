@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://order.dryice.thirupathiicecream.in/sitemap.xml
